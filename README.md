@@ -22,6 +22,6 @@ Slack and Piazza are not open source tools but they are tools of communication w
 5. (2 pts) Like many other social media, you can interact with others' messages with a simple emoji reaction. On someone else's message, 
 add an _appropriate_ reaction. 
 
-6. (2 pts) Login to the Piazza workspace and find my Welcome! message. Add a follow-up to my question with your name, location, and a hobby of yours.
+6. (2 pts) Login to the [Piazza workspace](https://piazza.com/arizona/fall2022/gist604b) and find my Welcome! message. Add a follow-up to my question with your name, location, and a hobby of yours.
 
 Note that the goal of this assignment is to make sure you have access to the class and instructors both through Slack and through the Piazza website. 
